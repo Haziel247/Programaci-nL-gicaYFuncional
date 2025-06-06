@@ -1,0 +1,23 @@
+--Cargar archivo:
+consult('C:/Users/Hachi/Desktop/AA 4.1 sistema de riego/riegoIoT.pl').
+
+--Visualizar base de conocimientos:
+
+listing.
+
+listing(activar_riego).
+
+--Consultas:
+
+activar_riego.
+
+hora_adecuada.
+
+pronostico_lluvia(X).
+
+estado_riego(X).
+
+recomendacion.
+
+
+
